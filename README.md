@@ -8,8 +8,10 @@ This project is a movie ratings database management system implemented in Python
 # Getting Started
 
 # The Repository:
-   git clone git@github.com:KevinKiseli/End_of_Phase_3_-Project.git
-   cd movie-ratings-database
+   git clone: git@github.com:KevinKiseli/End_of_Phase_3_-Project.git
+
+   then cd movie-ratings-database
+
 
 - Install Dependencies:
 
